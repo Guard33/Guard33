@@ -5,14 +5,7 @@
   <b>CS @ Saint Mary’s University • Full-stack dev who enjoys clean APIs ,typing frontends ,and infra</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Guard33?tab=repositories">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Guard33?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/Guard33">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Guard33&style=for-the-badge">
-  </a>
-</p>
+
 
 ---
 
