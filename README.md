@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- Guard33 / Profile README -->
 
-<!--
-**Guard33/Guard33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Feel Free to Check Out my Websites 👋</h1>
+<p align="center">
+  <b>CS @ Saint Mary’s University • Full-stack dev who enjoys clean APIs ,typing frontends ,and infra</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Guard33?tab=repositories">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Guard33?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/Guard33">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Guard33&style=for-the-badge">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech I use
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <br/>
+  <!-- Frameworks / Libraries -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <br/>
+  <!-- Cloud / DB / Dev -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-0A84FF?style=for-the-badge"/>
+</p>
+
+---
+
+### 🚀 Featured projects
+- <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack Movie watchlist app (Spring Boot · React · Node.js · MongoDB · Docker)
+
+
+---
+
+### 📊 GitHub stats
+<p>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Guard33&show_icons=true"/>
+</p>
+<p>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guard33&layout=compact"/>
+</p>
+
+---
+
+### 🔗 Find me
+<a href="https://www.linkedin.com/in/hemanth-harsha-rangaswamy-anitha-a59462313">LinkedIn</a> • <a href="mailto:hemanthhra12@gmail.com">Email</a>
+
