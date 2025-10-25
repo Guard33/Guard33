@@ -1,15 +1,15 @@
 <!-- Guard33 / Profile README -->
 
-<h1 align="center">Feel Free to Check Out my Websites 👋</h1>
+<h1 align="center">Feel Free to Check Out my Websites </h1>
 <p align="center">
-  <b>CS @ Saint Mary’s University • Full-stack dev who enjoys clean APIs ,typing frontends ,and infra</b>
+  <b>CS @ Saint Mary’s University • Full-stack dev who enjoys clean APIs ,typing frontends ,and infrastructure</b>
 </p>
 
 
 
 ---
 
-### 🧰 Tech I'm Comfortable Using
+### Tech I'm Comfortable Using
 <p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,13 +37,13 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 - <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack Movie watchlist app (Spring Boot · React · Node.js · MongoDB · Docker)
 
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 <p>
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Guard33&show_icons=true"/>
 </p>
@@ -53,6 +53,6 @@
 
 ---
 
-### 🔗 Find me
+### Find me
 <a href="https://www.linkedin.com/in/hemanth-harsha-rangaswamy-anitha-a59462313">LinkedIn</a> • <a href="mailto:hemanthhra12@gmail.com">Email</a>
 
