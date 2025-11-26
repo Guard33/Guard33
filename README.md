@@ -38,8 +38,8 @@
 ---
 
 ### Featured projects
-- <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack Movie watchlist app (Spring Boot · React · Node.js · MongoDB · Docker)
-
+- <a href="https://github.com/Guard33/moviehub">Movie Hub</a>  Full-stack Movie watchlist app (Spring Boot · React · Node.js · MongoDB · Docker)
+- <a href="https://github.com/Guard33/CSCI-3428-Woodland-Conservation-App">Woodland-Conservation-App</a> App to spread awareness for the Halifax woodlands ( React · JavaScript · Leaflet )
 
 ---
 
