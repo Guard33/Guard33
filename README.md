@@ -44,9 +44,7 @@
 ---
 
 ### GitHub stats
-<p>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Guard33&show_icons=true"/>
-</p>
+
 <p>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guard33&layout=compact"/>
 </p>
