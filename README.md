@@ -39,8 +39,8 @@
 ---
 
 ### Featured Projects
-- <a href="https://github.com/Guard33/FishMarket">FishMarket</a> — Full-stack seafood marketplace (Vue · Spring Boot · MongoDB · Docker)
-- <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack movie watchlist app (Spring Boot · React · Node.js · MongoDB)
+- <a href="https://github.com/Guard33/FishMarket">FishMarket</a> — Full-stack seafood marketplace (Vue · Spring Boot · MySQL · Docker)
+- <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack movie watchlist app (React · Spring Boot · Node.js · MongoDB)
 - <a href="https://github.com/Guard33/CSCI-3428-Woodland-Conservation-App">Woodland Conservation App</a> — Environmental awareness app (React · JavaScript · Leaflet)
 
 ---
