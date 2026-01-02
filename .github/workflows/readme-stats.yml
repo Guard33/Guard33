@@ -1,0 +1,34 @@
+name: Generate README Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # runs daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats images
+        run: |
+          mkdir -p generated
+
+          curl -L "https://github-readme-stats.vercel.app/api?username=Guard33&show_icons=true&hide_border=true" \
+            -o generated/stats.svg
+
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Guard33&layout=compact&hide_border=true" \
+            -o generated/top-langs.svg
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/*.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git push
