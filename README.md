@@ -45,16 +45,6 @@
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/stats.svg" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/top-langs.svg" />
-</p>
-
 
 ---
 
