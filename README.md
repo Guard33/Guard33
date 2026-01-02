@@ -45,13 +45,15 @@
 
 ---
 
+### GitHub Stats
+
 <p>
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guard33&show_icons=true&hide_border=true"
-  />
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/top-langs.svg" />
 </p>
 
+<p>
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/stats.svg" />
+</p>
 
 ---
 
