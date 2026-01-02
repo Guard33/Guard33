@@ -48,12 +48,13 @@
 ### GitHub Stats
 
 <p>
-  <img alt="Top Languages" src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/top-langs.svg" />
+  <img src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/stats.svg" />
 </p>
 
 <p>
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/stats.svg" />
+  <img src="https://raw.githubusercontent.com/Guard33/Guard33/main/generated/top-langs.svg" />
 </p>
+
 
 ---
 
