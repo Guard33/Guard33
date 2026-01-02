@@ -48,8 +48,8 @@
 ### GitHub Stats
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guard33&layout=compact&theme=default"
     alt="Top Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guard33&layout=compact&hide_border=true"
   />
 </p>
 
