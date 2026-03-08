@@ -43,7 +43,6 @@
 - <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack movie watchlist app (React · Spring Boot · Node.js · MongoDB)
 - <a href="https://github.com/Guard33/CSCI-3428-Woodland-Conservation-App">Woodland Conservation App</a> — Environmental awareness app (React · JavaScript · Leaflet)
 
----
 
 
 ---
