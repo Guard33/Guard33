@@ -39,14 +39,15 @@
 ---
 
 ### Featured Projects
+- <a href="https://github.com/Guard33/notepad-app">Notepad App</a> — Full-stack notes app with auth, tags, search, pin/archive, and trash/restore (React · Express · MongoDB · JWT · Tailwind) — <a href="https://notepad-app-brown.vercel.app">live demo</a>
+- <a href="https://github.com/Guard33/ai-quality-classifier">AI Output Quality Classifier</a> — Predicts whether an LLM response will be rated high or low quality, trained on human-annotated UltraFeedback data; 67.6% accuracy / 0.744 F1 (Python · Sentence Embeddings · Gradient Boosting · FastAPI · React)
 - <a href="https://github.com/Guard33/FishMarket">FishMarket</a> — Full-stack seafood marketplace (Vue · Spring Boot · MySQL · Docker)
 - <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack movie watchlist app (React · Spring Boot · Node.js · MongoDB)
 - <a href="https://github.com/Guard33/CSCI-3428-Woodland-Conservation-App">Woodland Conservation App</a> — Environmental awareness app (React · JavaScript · Leaflet)
 
-
-
 ---
 
 ### Find Me
+<a href="https://guard33.github.io/Portfolio/">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/hemanth-harsha-rangaswamy-anitha-a59462313">LinkedIn</a> • 
 <a href="mailto:hemanthhra12@gmail.com">Email</a>
