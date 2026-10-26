@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hemanth Harsha Rangaswamy Anitha's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 106, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 91, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 234.45526045310072;
+        stroke-dashoffset: 235.781099486422;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >106</text>
+      >91</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
