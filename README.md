@@ -41,9 +41,9 @@
 ### Featured Projects
 - <a href="https://github.com/Guard33/notepad-app">Tidewater Prints</a> — Full-stack e-commerce store for generative art posters: catalog, cart, checkout with Canadian tax by province, order history, and a role-based admin dashboard with sales analytics and inventory (React · Express · MongoDB · JWT · Tailwind) — <a href="https://tidewater-prints.vercel.app">live demo</a>
 - <a href="https://github.com/Guard33/ai-quality-classifier">AI Output Quality Classifier</a> — Predicts whether an LLM response will be rated high or low quality, trained on human-annotated UltraFeedback data; 67.6% accuracy / 0.744 F1 (Python · Sentence Embeddings · Gradient Boosting · FastAPI · React)
-- <a href="https://github.com/Guard33/FishMarket">FishMarket</a> — Full-stack seafood marketplace (Vue · Spring Boot · MySQL · Docker)
 - <a href="https://github.com/Guard33/moviehub">Movie Hub</a> — Full-stack movie watchlist app (React · Spring Boot · Node.js · MongoDB)
 - <a href="https://github.com/Guard33/CSCI-3428-Woodland-Conservation-App">Woodland Conservation App</a> — Environmental awareness app (React · JavaScript · Leaflet)
+- <a href="https://github.com/Guard33/FishMarket">FishMarket</a> — Full-stack seafood marketplace (Vue · Spring Boot · MySQL · Docker)
 
 ---
 
